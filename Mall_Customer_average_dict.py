@@ -1,4 +1,4 @@
-'''Find out the average of Male and Female Spending Score Using List'''
+'''Find out the average of Male and Female Spending Score Using Dictionary of list'''
 
 file_path=r'D:/Mall_Customers_Excercise/machineLearningAZ-master/machineLearningAZ-master/Machine Learning A-Z Template Folder/Part 4 - Clustering/Section 24 - K-Means Clustering/Mall_Customers.csv'
 
